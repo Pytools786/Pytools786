@@ -6,7 +6,10 @@
 
 
 instagram Profile: https://www.instagram.com/__pytools__/
+
 GitHub Profile: https://github.com/pytools786
+
 BlogSpot: https://pytools786.blogspot.com/
+
 Gmail id: shivraj07052002@gmail.com
 
