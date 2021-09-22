@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pytools
-- 👀 I’m a programmer and Ethical hacker
+- 👀 I’m a programmer, Bug Bounty Hunter, Network Penetration Tester and Ethical hacker
 - 🌱 I’m currently learning 
 - 💞️ I’m looking for position that give me opportunities enhance my core skills
 - 📫 How to reach me ...
